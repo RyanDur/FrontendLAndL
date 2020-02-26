@@ -17,7 +17,7 @@
       pooling there files together, but have the ability to link
       documents together by some form of 'hypertext'.
     - 1990 HTML Specification :: Tim Berners-Lee writes the
-      specification and the browser and serve software.
+      specification, the browser and server software.
     - 1991 HTML 1 :: First public mention of HTML which originally
       consisted of 18 tags defined [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][here]]
     - HTML 2.0 :: released in 1995
