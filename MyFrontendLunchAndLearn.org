@@ -8,43 +8,43 @@
    practices should also have explanations as to why they are what
    they are.
 
-* HTML
+** HTML
 
-** history
+*** history
 
-   - 1989 An Idea :: Tim Berners-Lee has an idea to help researchers
-     collaborate no matter where they were on the planet. Not by just
-     pooling there files together, but have the ability to link
-     documents together by some form of `hypertext`.
-   - 1990 HTML Specification :: Tim Berners-Lee writes the
-     specification and the browser and serve software.
-   - 1991 HTML 1 :: First public mention of HTML which originally
-     consisted of 18 tags defined [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][here]]
-   - HTML 2.0 :: released in 1995
-   - HTML 5 :: released in 2014
+    - 1989 An Idea :: Tim Berners-Lee has an idea to help researchers
+      collaborate no matter where they were on the planet. Not by just
+      pooling there files together, but have the ability to link
+      documents together by some form of 'hypertext'.
+    - 1990 HTML Specification :: Tim Berners-Lee writes the
+      specification and the browser and serve software.
+    - 1991 HTML 1 :: First public mention of HTML which originally
+      consisted of 18 tags defined [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][here]]
+    - HTML 2.0 :: released in 1995
+    - HTML 5 :: released in 2014
 
-** responsibility
+*** responsibility
 
-*** why
+**** why
 
-** best practices
+*** best practices
 
-* CSS
+** CSS
 
-** history
+*** history
 
-** responsibility
+*** responsibility
 
-*** why
+**** why
 
-** best practices
+*** best practices
 
-* Java-script
+** Java-script
 
-** history
+*** history
 
-** responsibility
+*** responsibility
 
-*** why
+**** why
 
-** best practices
+*** best practices
