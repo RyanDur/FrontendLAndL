@@ -1,9 +1,9 @@
 * My Lunch and learn
 ** HTML
 
-   /It is not a programming language, but rather a language that
+   '/It is not a programming language, but rather a language that
    identifies the meaning, purpose, and structure of text within
-   a document./ [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
+   a document./' [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
 
 *** history
 
