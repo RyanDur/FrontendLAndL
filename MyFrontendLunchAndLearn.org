@@ -107,6 +107,18 @@
 
       - it helps keep things readable
 
+    - Use alt attribute with images
+
+*** Search Engine Optimization considerations
+
+    - Use a title
+
+    - Header tags help and give an implicit ranking to your page
+
+    - Use a meta description in the head
+
+    - [[https://support.google.com/webmasters/answer/7451184?hl=en][a place to get started]]
+
 ** CSS
 
 *** history
