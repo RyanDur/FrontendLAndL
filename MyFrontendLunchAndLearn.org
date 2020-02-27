@@ -3,16 +3,48 @@
 
 *** history
 
-    - 1989 An Idea :: Tim Berners-Lee has an idea to help researchers
-      collaborate no matter where they were on the planet. Not by just
-      pooling there files together, but have the ability to link
-      documents together by some form of 'hypertext'.
-    - 1990 HTML Specification :: Tim Berners-Lee writes the
-      specification, the browser and server software.
-    - 1991 HTML 1 :: First public mention of HTML which originally
-      consisted of 18 tags defined [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][here]]
-    - HTML 2.0 :: released in 1995
-    - HTML 5 :: released in 2014
+**** 1989 An Idea
+
+     - Tim Berners-Lee has an idea to help researchers collaborate
+
+       - Regardless of location
+
+       - by linking documents together by some form of 'hypertext'.
+
+**** 1990 HTML Specification
+
+     - Tim Berners-Lee writes the specification, the browser and
+       server software.
+
+       - creates HTTP for retrieving documents via hyperlinks
+
+	 - Only 'GET' at this point, and it can only return HTML
+
+       - He decides to base HTML on an already internationally agreed
+	 upon standard called the Standard Generalized Mark-up
+	 Language (SGML).
+
+	 - He adds the 'a' (anchor tag) to the existing elements with
+	   the HREF attribute to implement the hypertext link.
+
+**** 1991 HTML 1
+
+     - First public mention of HTML
+
+       - originally consisted of 18 tags defined [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][here]]
+
+**** 1994 - 95 HTML 2.0
+
+     - In response to New browsers adding custom tags of there own
+       a new specification is born.
+
+       - based on all the most popular new tags
+
+       - A new Doctype Definition (DTD)
+
+**** 2014 HTML 5
+
+     - no longer needs a DTD
 
 *** responsibility
 
