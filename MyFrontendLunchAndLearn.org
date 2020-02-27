@@ -62,7 +62,11 @@
 
     - Not validating user input
     - Cross-site scripting (XSS)
+      - reflected
+      - persistent
     - SQL injection
+    - Cross-site request forgery (CSRF)
+    - Clickjacking
 
 *** best practices
 
