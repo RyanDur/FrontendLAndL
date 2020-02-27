@@ -25,7 +25,7 @@
        Language (SGML).
 
        - He adds the 'a' (anchor tag) to the existing elements with
-	   the HREF attribute to implement the hypertext link.
+	 the HREF attribute to implement the hypertext link.
 
 **** 1991 HTML 1
 
