@@ -16,15 +16,15 @@
      - Tim Berners-Lee writes the specification, the browser and
        server software.
 
-       - creates HTTP for retrieving documents via hyperlinks
+     - creates HTTP for retrieving documents via hyperlinks
 
-	 - Only 'GET' at this point, and it can only return HTML
+       - Only 'GET' at this point, and it can only return HTML
 
-       - He decides to base HTML on an already internationally agreed
-	 upon standard called the Standard Generalized Mark-up
-	 Language (SGML).
+     - He decides to base HTML on an already internationally agreed
+       upon standard called the Standard Generalized Mark-up
+       Language (SGML).
 
-	 - He adds the 'a' (anchor tag) to the existing elements with
+       - He adds the 'a' (anchor tag) to the existing elements with
 	   the HREF attribute to implement the hypertext link.
 
 **** 1991 HTML 1
