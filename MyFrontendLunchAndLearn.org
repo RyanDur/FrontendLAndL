@@ -49,7 +49,13 @@
 
 *** responsibility
 
+    The responsibility of HTML is content. Connecting documents
+    across the web. embedding media content into a page. Also includes
+    the CSS and JavaScript.
+
 **** why
+
+
 
 *** best practices
 
