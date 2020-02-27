@@ -58,7 +58,6 @@
      Although it is possible to embed the styles in-line, the page
      becomes harder to maintain.
 
-
 *** Security concerns
 
     - Not validating user input
