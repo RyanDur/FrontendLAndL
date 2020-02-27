@@ -49,14 +49,17 @@
 
 *** responsibility
 
-    The responsibility of HTML is content. Connecting documents
-    across the web. embedding media content into a page. Also includes
-    the CSS and JavaScript.
+    - content
+    - connecting documents across the web
+    - embedding media
+    - orchestrating the inclusion of CSS and JS
 
 **** why
 
      Although it is possible to embed the styles in-line, the page
-     becomes harder to maintain.
+     becomes harder to maintain. Although maintainability is an
+     important concern, there are other considerations to
+     separate responsibilities (e.g. content and presentation).
 
 *** Security concerns
 
