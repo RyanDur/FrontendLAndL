@@ -59,11 +59,11 @@
      becomes harder to maintain.
 
 
-**** Security concerns
+*** Security concerns
 
-     - Not validating user input
-     - Cross-site scripting (XSS)
-     - SQL injection
+    - Not validating user input
+    - Cross-site scripting (XSS)
+    - SQL injection
 
 *** best practices
 
