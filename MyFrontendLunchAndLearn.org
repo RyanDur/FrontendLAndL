@@ -1,6 +1,10 @@
 * My Lunch and learn
 ** HTML
 
+   /It is not a programming language, but rather a language that
+   identifies the meaning, purpose, and structure of text within
+   a document./ [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
+
 *** history
 
 **** 1989 An Idea
@@ -70,6 +74,7 @@
     - SQL injection
     - Cross-site request forgery (CSRF)
     - Clickjacking
+    - [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security][Others...]]
 
 *** best practices
 
