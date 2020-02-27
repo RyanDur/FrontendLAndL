@@ -24,8 +24,7 @@
        upon standard called the Standard Generalized Mark-up
        Language (SGML).
 
-       - He adds the 'a' (anchor tag) to the existing elements with
-	 the HREF attribute to implement the hypertext link.
+       - He adds the 'a' (anchor tag) to the existing elements with the HREF attribute to implement the hypertext link.
 
 **** 1991 HTML 1
 
