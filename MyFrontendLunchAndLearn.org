@@ -93,6 +93,20 @@
 
 *** best practices
 
+    - use semantic mark-up
+
+    - don't use [[https://html.com/deprecated/][these deprecated features]] and [[https://rules.sonarsource.com/html/tag/html5/RSPEC-1827][these]]
+
+    - don't use inline styles
+
+    - use kebob-case or snake_case for class/id names.
+
+      - one or the other, please be consistent
+
+    - use lowercase kebob-case for tag names.
+
+      - it helps keep things readable
+
 ** CSS
 
 *** history
