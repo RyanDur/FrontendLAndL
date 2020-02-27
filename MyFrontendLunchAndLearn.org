@@ -44,7 +44,9 @@
 
 **** 2014 HTML 5
 
-     - no longer needs a DTD
+     - No longer based on SGML
+
+       - no longer needs a DTD
 
 *** responsibility
 
