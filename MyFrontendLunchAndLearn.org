@@ -49,7 +49,16 @@
 
      - No longer based on SGML
 
-       - no longer needs a DTD
+     - Semantic (meaningful) mark-up
+
+     - Separation of design from content
+
+     - Promoting accessibility and design responsiveness
+
+     - Reducing the overlap between HTML, CSS, and JavaScript
+
+     - Supporting rich media experiences while eliminating the need
+       for plugins such as Flash or Java
 
 *** responsibility
 
@@ -64,6 +73,12 @@
      becomes harder to maintain. Although maintainability is an
      important concern, there are other considerations to
      separate responsibilities (e.g. content and presentation).
+     Users view web content in a lot of different contexts —
+     desktops, laptops, tablets, mobile phones, RSS readers, and
+     many others. Styles and design decisions that make sense in
+     one environment don't always make sense in another. So it is
+     much better to provide semantic information and let the content
+     be adapted to the context.
 
 *** Security concerns
 
