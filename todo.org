@@ -1,0 +1,9 @@
+* Lets create a lunch and learn
+** TODO create outline
+
+   create outline describing the three main front-end technologies.
+   Their responsibilities and best practices. Should describe why
+   that technology is responsible for that section. Should also
+   discuss the implications of having that responsibility, Best
+   practices should also have explanations as to why they are what
+   they are.
