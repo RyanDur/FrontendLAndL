@@ -122,7 +122,7 @@
 ** CSS
 
    'CSS is the language for describing the presentation of Web pages,
-   including colors, layout, and fonts..x. The separation of HTML from
+   including colors, layout, and fonts... The separation of HTML from
    CSS makes it easier to maintain sites, share style sheets across
    pages, and tailor pages to different environments. This is
    referred to as the separation of structure (or: content)
