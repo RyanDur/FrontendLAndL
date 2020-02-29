@@ -1,3 +1,5 @@
+#+BIBLIOGRAPHY: papers plain
+
 * My Lunch and learn
 ** HTML
 
@@ -146,4 +148,5 @@
 
 *** best practices
 
+bibliographystyle:unsrt
 bibliography:references.bib
