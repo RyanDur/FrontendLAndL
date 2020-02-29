@@ -145,3 +145,5 @@
 **** why
 
 *** best practices
+
+bibliography:references.bib
