@@ -126,7 +126,7 @@
    CSS makes it easier to maintain sites, share style sheets across
    pages, and tailor pages to different environments. This is
    referred to as the separation of structure (or: content)
-   from presentation.' [[https://www.w3.org/standards/webdesign/htmlcss.html][w3.org]]
+   from presentation.' cite:w3c-HTML--CSS
 
 *** history
 
