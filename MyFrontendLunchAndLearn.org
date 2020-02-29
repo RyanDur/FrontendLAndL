@@ -1,5 +1,3 @@
-#+BIBLIOGRAPHY: papers plain
-
 * My Lunch and learn
 ** HTML
 
@@ -128,7 +126,7 @@
    CSS makes it easier to maintain sites, share style sheets across
    pages, and tailor pages to different environments. This is
    referred to as the separation of structure (or: content)
-   from presentation.' cite:w3c-HTML--CSS
+   from presentation.'
 
 *** history
 
@@ -147,6 +145,5 @@
 **** why
 
 *** best practices
-
-bibliographystyle:unsrt
+index:export!ascii
 bibliography:references.bib
