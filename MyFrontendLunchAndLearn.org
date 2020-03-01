@@ -130,6 +130,46 @@
 
 *** history
 
+    [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
+    [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
+    [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
+    [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]a
+
+**** 1994
+
+     - Hakon Wium Lie released the first draft of
+       “Cascading HTML Style Sheets” in October
+
+**** 1995
+
+     - HTML3.2 includes the font tag
+
+**** 1996 CSS Recommendation released
+
+     - Microsoft Internet Explorer became the first browser to
+       support CSS.
+     - allows the user to select font style and size and change the
+       color of the text and background.
+
+**** 1998 CSS 2
+
+     - then CSS 2.1 fixing the buggy nature of its predecessor
+       has capabilities that allows the user to design page layout.
+
+**** 1999 CSS 3
+
+     - Allows The User To Create Presentations From Documents And
+       to select from a wider range of fonts including those from
+       Google and Typecast. Uniquely, CSS3 allows the user to
+       incorporate rounded borders and use multiple columns. CSS3
+       is considered to be easier to use (when compared to CSS2)
+       because it has different modules
+
+**** 2011
+
+     CSS 2.1 finally being published as an official WC3
+     recommendation
+
 *** responsibility
 
 **** why
