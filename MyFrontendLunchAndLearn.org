@@ -165,11 +165,7 @@
        Style Sheets” in October at a web conference in Chicago
        (Developer's Day)
        - The concept of a balance between author and user preferences
-       - CSS was perceived by some as being too simple for the task
-	 it was designed for. They argued that in order to style
-	 documents, the power of a full programming language was
-	 needed. CSS went in the exact opposite direction by making
-	 a point out of being a simple, declarative format.
+       - CSS was perceived by some as being too simple for the task it was designed for. They argued that in order to style documents, the power of a full programming language was needed. CSS went in the exact opposite direction by making a point out of being a simple, declarative format.
 
 **** 1995
 
