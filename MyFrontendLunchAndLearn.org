@@ -1,6 +1,7 @@
 * My Lunch and learn
-** HTML
+** Content/Structure
 
+   HTML
    'It is not a programming language, but rather a language that
    identifies the meaning, purpose, and structure of text within
    a document.' [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
@@ -119,7 +120,7 @@
 
     - [[https://support.google.com/webmasters/answer/7451184?hl=en][a place to get started]]
 
-** CSS
+** Presentation
 
    'CSS is the language for describing the presentation of Web pages,
    including colors, layout, and fonts... The separation of HTML from
@@ -130,6 +131,9 @@
 
 *** history
 
+    [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
+    [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
+    [[https://www.w3.org/Style/LieBos2e/history/Overview.html][The CSS Saga]]
     [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
     [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
     [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
