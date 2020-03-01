@@ -166,8 +166,8 @@
        - The concept of a balance between author and user preferences
        - CSS was perceived by some as being too simple
 	 - Believed a full programming language was needed.
-       - CSS went in the exact opposite direction by making a
-	 point out of being a simple, declarative format.
+       - CSS went in the exact opposite direction
+	 - simple, declarative format.
 
 **** 1995
 
