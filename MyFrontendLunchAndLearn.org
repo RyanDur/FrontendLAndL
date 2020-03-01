@@ -1,5 +1,5 @@
 * My Lunch and learn
-** Content/Structure
+** Structure
 
    HTML
    'It is not a programming language, but rather a language that
@@ -181,6 +181,8 @@
 
      - then CSS 2.1 fixing the buggy nature of its predecessor
        has capabilities that allows the user to design page layout.
+     - [[https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm][The Box Acid Test]] :: Written by Todd Fahrmer tested if
+       web browsers supported the CSS language.
 
 **** 1999 CSS 3
 
