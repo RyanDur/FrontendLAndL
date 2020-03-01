@@ -137,7 +137,7 @@
     [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
     [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
     [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
-    [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]a
+    [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
 
 **** 1994
 
