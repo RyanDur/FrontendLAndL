@@ -166,7 +166,7 @@
 
        - CSS went in the exact opposite direction with a simple, declarative format.
 
-**** 1995  WWW conference, CSS was again presented
+**** 1995 - WWW conference, CSS was again presented
 
    - Bert Bos presented the support for style sheets in Argo
    - Håkon showed a version of the Arena browser which had been modified to support CSS
