@@ -139,6 +139,7 @@
     [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
     [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
     [[https://www.webdesignmuseum.org/][Web Design Museum]]
+    [[https://thehistoryoftheweb.com/the-rise-of-css/][The Rise of CSS]]
 
 **** 1994
 
@@ -193,6 +194,11 @@
        incorporate rounded borders and use multiple columns. CSS3
        is considered to be easier to use (when compared to CSS2)
        because it has different modules
+
+**** 2002
+
+     - Wired magazine launch a brand new version of their website
+       with a standards based layout using semantic HTML and CSS.
 
 **** 2003
 
