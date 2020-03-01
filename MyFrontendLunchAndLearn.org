@@ -160,11 +160,13 @@
 
 **** 1994 - Håkon Wium Lie released the first draft of “Cascading HTML Style Sheets” in October at a web conference in Chicago (Developer's Day)
 
-       - The concept of a balance between author and user preferences
+     - The concept of a balance between author and user preferences
 
-       - CSS was perceived by some as being too simple and believed it needed a full programming language.
+     - CSS was perceived by some as being too simple and believed it
+       needed a full programming language.
 
-       - CSS went in the exact opposite direction with a simple, declarative format.
+     - CSS went in the exact opposite direction with a simple,
+       declarative format.
 
 **** 1995 - WWW conference, CSS was again presented
 
