@@ -1,10 +1,9 @@
-* My Lunch and learn
+* Front-end Lunch and learn
 ** Structure
 
-   HTML
-   'It is not a programming language, but rather a language that
-   identifies the meaning, purpose, and structure of text within
-   a document.' [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
+   - HTML :: 'It is not a programming language, but rather a
+     language that identifies the meaning, purpose, and structure
+     of text within a document.' [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
 
 *** history
 
@@ -132,14 +131,32 @@
 *** history
 
     [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
+
     [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
+
     [[https://www.w3.org/Style/LieBos2e/history/Overview.html][The CSS Saga]]
+
     [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
+
     [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
+
     [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
+
     [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
+
     [[https://www.webdesignmuseum.org/][Web Design Museum]]
+
     [[https://thehistoryoftheweb.com/the-rise-of-css/][The Rise of CSS]]
+
+    [[https://thehistoryoftheweb.com/look-back-history-css/][A Look Back at the History of CSS]]
+
+**** 1993
+
+     #+BEGIN_SRC html
+     <MULTICOL COLS="3" GUTTER="25">
+       <P><FONT SIZE="4" COLOR="RED">This would be some font broken up into columns</FONT></P>
+     </MULTICOL>
+     #+END_SRC
 
 **** 1994
 
@@ -147,34 +164,27 @@
        Style Sheets” in October at a web conference in Chicago
        (Developer's Day)
        - The concept of a balance between author and user preferences
-       - CSS was perceived by some as being too simple for the task
-	 it was designed for. They argued that in order to style
-	 documents, the power of a full programming language was
-	 needed. CSS went in the exact opposite direction by making
-	 a point out of being a simple, declarative format.
+       - CSS was perceived by some as being too simple
+	 - Believed a full programming language was needed.
+       - CSS went in the exact opposite direction
+	 - simple, declarative format.
 
 **** 1995
 
      - HTML3.2 includes the font tag
      - WWW conference in April 1995, CSS was again presented
        - Bert Bos presented the support for style sheets in Argo
-       - Håkon showed a version of the Arena browser which had been
-	 modified to support CSS
+       - Håkon showed a version of the Arena browser which had been modified to support CSS
 	 - Arena was written by Dave Ragett as a testbed.
      - The presentations became a political argument
-       - Author :: the author ultimately had to be in charge of
-	 deciding how documents were presented. (e.g. legal reasons)
-       - User :: Whose eyes and ears ultimately have to decode the
-	 presentation, should be given the last word when there are
-	 conflicts.
+       - Author :: the author ultimately had to be in charge of deciding how documents were presented. (e.g. legal reasons)
+       - User :: Whose eyes and ears ultimately have to decode the presentation, should be given the last word when there are conflicts.
 
 **** 1996 CSS Recommendation released
 
      - Microsoft Internet Explorer became the first browser to
        support CSS.
-       - reliably supports most of the color, background, font and
-	 text properties, but does not implement much of the
-	 box model.
+       - reliably supports most of the color, background, font and text properties, but does not implement much of the box model.
      - Sites that looked one way in IE might look completely
        different in Netscape Navigator, and vise versa, because
        CSS properties were executed differently.
@@ -184,7 +194,10 @@
      - then CSS 2.1 fixing the buggy nature of its predecessor
        has capabilities that allows the user to design page layout.
      - [[https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm][The Box Acid Test]] :: Written by Todd Fahrner tested if
-       web browsers supported the CSS language.
+       web browsers supported the CSS language. The test itself is a
+       simple webpage with a series of arranged boxes. Browsers
+       would either render this page correctly, or fail the test.
+       In the beginning, most browsers failed.
 
 **** 1999 CSS 3
 
