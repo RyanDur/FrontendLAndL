@@ -194,6 +194,10 @@
        is considered to be easier to use (when compared to CSS2)
        because it has different modules
 
+**** 2003
+
+     - Dave Shea creates [[http://csszengarden.com/][CSS Zen Garden]]
+
 **** 2011
 
      CSS 2.1 finally being published as an official WC3
