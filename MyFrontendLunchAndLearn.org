@@ -138,6 +138,7 @@
     [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
     [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
     [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
+    [[https://www.webdesignmuseum.org/][Web Design Museum]]
 
 **** 1994
 
@@ -181,7 +182,7 @@
 
      - then CSS 2.1 fixing the buggy nature of its predecessor
        has capabilities that allows the user to design page layout.
-     - [[https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm][The Box Acid Test]] :: Written by Todd Fahrmer tested if
+     - [[https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm][The Box Acid Test]] :: Written by Todd Fahrner tested if
        web browsers supported the CSS language.
 
 **** 1999 CSS 3
