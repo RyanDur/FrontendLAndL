@@ -158,11 +158,7 @@
      </MULTICOL>
      #+END_SRC
 
-**** 1994
-
-     - Håkon Wium Lie released the first draft of “Cascading HTML
-       Style Sheets” in October at a web conference in Chicago
-       (Developer's Day)
+**** 1994 - Håkon Wium Lie released the first draft of “Cascading HTML Style Sheets” in October at a web conference in Chicago (Developer's Day)
 
        - The concept of a balance between author and user preferences
 
