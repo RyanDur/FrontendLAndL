@@ -192,6 +192,16 @@
 
        - Among the new tags the new browser supported was center
 
+     - Behind the scenes, Dave Raggett (the main architect of
+       HTML 3.0) had encouraged the release of the draft to go
+       out before the upcoming Mosaic and the Web conference in
+       Chicago.
+
+       - Dave had realized that HTML would and should never turn
+	 into a page-description language and that a
+	 more purpose-built mechanism was needed to satisfy
+	 requirements from authors.
+
      - Tim Berners-Lee formed the World Wide Web Consortium,
        (W3C) at the Massachusetts Institute of Technology
        Laboratory for Computer Science.
