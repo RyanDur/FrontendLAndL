@@ -253,7 +253,7 @@
      - CSS 2.1 finally being published as an official WC3
        recommendation
 
-     -  Between June 2011 and June 2012, the following four modules
+     - Between June 2011 and June 2012, the following four modules
        were released as formal recommendations: color, selectors
        level 3, namespaces and media queries
 
