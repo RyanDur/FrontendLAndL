@@ -131,25 +131,25 @@
 *** history
 
 ***** resources
-    [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
+      [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
 
-    [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
+      [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
 
-    [[https://www.w3.org/Style/LieBos2e/history/Overview.html][The CSS Saga]]
+      [[https://www.w3.org/Style/LieBos2e/history/Overview.html][The CSS Saga]]
 
-    [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
+      [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
 
-    [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
+      [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
 
-    [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
+      [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
 
-    [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
+      [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
 
-    [[https://www.webdesignmuseum.org/][Web Design Museum]]
+      [[https://www.webdesignmuseum.org/][Web Design Museum]]
 
-    [[https://thehistoryoftheweb.com/the-rise-of-css/][The Rise of CSS]]
+      [[https://thehistoryoftheweb.com/the-rise-of-css/][The Rise of CSS]]
 
-    [[https://thehistoryoftheweb.com/look-back-history-css/][A Look Back at the History of CSS]]
+      [[https://thehistoryoftheweb.com/look-back-history-css/][A Look Back at the History of CSS]]
 
 **** 1993
 
@@ -252,6 +252,10 @@
 
      CSS 2.1 finally being published as an official WC3
      recommendation
+
+     -  Between June 2011 and June 2012, the following four modules
+       were released as formal recommendations: color, selectors
+       level 3, namespaces and media queries
 
 *** responsibility
 
