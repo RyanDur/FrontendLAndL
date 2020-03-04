@@ -130,6 +130,7 @@
 
 *** history
 
+***** resources
     [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
 
     [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
@@ -152,6 +153,9 @@
 
 **** 1993
 
+     - NCSA Mosaic was released
+       - offered limited capability to change fonts and colors.
+
      #+BEGIN_SRC html
      <MULTICOL COLS="3" GUTTER="25">
        <P><FONT SIZE="4" COLOR="RED">This would be some font broken up into columns</FONT></P>
@@ -167,6 +171,10 @@
 
      - CSS went in the exact opposite direction with a simple,
        declarative format.
+
+     - Tim Berners-Lee formed the World Wide Web Consortium,
+       (W3C) at the Massachusetts Institute of Technology
+       Laboratory for Computer Science.
 
 **** 1995 - WWW conference, CSS was again presented
 
