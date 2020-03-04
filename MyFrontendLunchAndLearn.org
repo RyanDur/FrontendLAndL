@@ -193,8 +193,8 @@
 
      - HTML3.2 includes the font tag
 
-     - The W3C creates recommendations that are used to keep the
-       web experience consistent among different browsers.
+     - The W3C set up the HTML Editorial Review Board (ERB) in
+       late 1995 to make HTML specifications.
 
 **** 1996 CSS Recommendation released
 
