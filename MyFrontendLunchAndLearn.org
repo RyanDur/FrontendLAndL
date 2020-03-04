@@ -186,6 +186,10 @@
      - CSS went in the exact opposite direction with a simple,
        declarative format.
 
+     - Marc Andreessen announced to www-talk that the first beta
+       release of Mozilla (which later turned into Netscape
+       Navigator) was available for testing.
+
      - Tim Berners-Lee formed the World Wide Web Consortium,
        (W3C) at the Massachusetts Institute of Technology
        Laboratory for Computer Science.
