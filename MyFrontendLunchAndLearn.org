@@ -193,6 +193,9 @@
 
      - HTML3.2 includes the font tag
 
+     - The W3C creates recommendations that are used to keep the
+       web experience consistent among different browsers.
+
 **** 1996 CSS Recommendation released
 
      - Microsoft Internet Explorer became the first browser to
