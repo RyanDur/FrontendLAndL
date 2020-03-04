@@ -204,6 +204,8 @@
        and lines, margins, borders, padding and positioning, and
        unique identification and classification of groups of
        attributes.
+       - the Cascading Style Sheets and Formatting Properties
+	 Working Group was formed by the W3C to focus solely on CSS.
      - Microsoft Internet Explorer became the first browser to
        support CSS.
        - reliably supports most of the color, background, font and text properties, but does not implement much of the box model.
