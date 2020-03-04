@@ -198,12 +198,12 @@
 
 **** 1996 CSS Recommendation released
 
-     -The release of CSS 1 supported: font properties, text
-     attributes, alignment of text, tables, images and more,
-     colors of text and backgrounds, spacing of words, letters
-     and lines, margins, borders, padding and positioning, and
-     unique identification and classification of groups of
-     attributes.
+     - The release of CSS 1 supported: font properties, text
+       attributes, alignment of text, tables, images and more,
+       colors of text and backgrounds, spacing of words, letters
+       and lines, margins, borders, padding and positioning, and
+       unique identification and classification of groups of
+       attributes.
      - Microsoft Internet Explorer became the first browser to
        support CSS.
        - reliably supports most of the color, background, font and text properties, but does not implement much of the box model.
