@@ -201,6 +201,9 @@
      - Microsoft Internet Explorer became the first browser to
        support CSS.
        - reliably supports most of the color, background, font and text properties, but does not implement much of the box model.
+     - Netscape followed suit in supporting CSS, but also
+       implemented an alternative JavaScript Style Sheets, which
+       were never fully completed, and are now deprecated.
      - Sites that looked one way in IE might look completely
        different in Netscape Navigator, and vise versa, because
        CSS properties were executed differently.
