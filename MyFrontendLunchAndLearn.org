@@ -190,6 +190,8 @@
        release of Mozilla (which later turned into Netscape
        Navigator) was available for testing.
 
+       - Among the new tags the new browser supported was center
+
      - Tim Berners-Lee formed the World Wide Web Consortium,
        (W3C) at the Massachusetts Institute of Technology
        Laboratory for Computer Science.
