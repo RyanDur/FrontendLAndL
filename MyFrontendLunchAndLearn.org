@@ -1,304 +1,303 @@
-* Front-end Lunch and learn
-** Structure
+* Structure
 
-   - HTML :: 'It is not a programming language, but rather a
-     language that identifies the meaning, purpose, and structure
-     of text within a document.' [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
+  - HTML :: 'It is not a programming language, but rather a
+    language that identifies the meaning, purpose, and structure
+    of text within a document.' [[https://html.com/html5/#ixzz6FBt3HtF4][Read more]]
 
-*** history
+** history
 
-**** 1989 An Idea
+*** 1989 An Idea
 
-     - Tim Berners-Lee has an idea to help researchers collaborate
+    - Tim Berners-Lee has an idea to help researchers collaborate
 
-       - Regardless of location
+      - Regardless of location
 
-       - by linking documents together by some form of 'hypertext'.
+      - by linking documents together by some form of 'hypertext'.
 
-**** 1990 HTML Specification
+*** 1990 HTML Specification
 
-     - Tim Berners-Lee writes the specification, the browser and
-       server software.
+    - Tim Berners-Lee writes the specification, the browser and
+      server software.
 
-     - creates HTTP for retrieving documents via hyperlinks
+    - creates HTTP for retrieving documents via hyperlinks
 
-       - Only 'GET' at this point, and it can only return HTML
+      - Only 'GET' at this point, and it can only return HTML
 
-     - He decides to base HTML on an already internationally agreed
-       upon standard called the Standard Generalized Mark-up
-       Language (SGML).
+    - He decides to base HTML on an already internationally agreed
+      upon standard called the Standard Generalized Mark-up
+      Language (SGML).
 
-       - He adds the 'a' (anchor tag) to the existing elements with the HREF attribute to implement the hypertext link.
+      - He adds the 'a' (anchor tag) to the existing elements with the HREF attribute to implement the hypertext link.
 
-**** 1991 HTML 1
+*** 1991 HTML 1
 
-     - First public mention of HTML
+    - First public mention of HTML
 
-       - originally consisted of 18 tags defined [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][here]]
+      - originally consisted of 18 tags defined [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][here]]
 
-**** 1994 - 95 HTML 2.0
+*** 1994 - 95 HTML 2.0
 
-     - In response to New browsers adding custom tags of there own
-       a new specification is born.
+    - In response to New browsers adding custom tags of there own
+      a new specification is born.
 
-       - based on all the most popular new tags
+      - based on all the most popular new tags
 
-       - A new Doctype Definition (DTD)
+      - A new Doctype Definition (DTD)
 
-**** 2014 HTML 5
+*** 2014 HTML 5
 
-     - No longer based on SGML
+    - No longer based on SGML
 
-     - Semantic (meaningful) mark-up
+    - Semantic (meaningful) mark-up
 
-     - Separation of design from content
+    - Separation of design from content
 
-     - Promoting accessibility and design responsiveness
+    - Promoting accessibility and design responsiveness
 
-     - Reducing the overlap between HTML, CSS, and JavaScript
+    - Reducing the overlap between HTML, CSS, and JavaScript
 
-     - Supporting rich media experiences while eliminating the need
-       for plugins such as Flash or Java
+    - Supporting rich media experiences while eliminating the need
+      for plugins such as Flash or Java
 
-*** responsibility
+** responsibility
 
-    - content
-    - connecting documents across the web
-    - embedding media
-    - orchestrating the inclusion of CSS and JS
+   - content
+   - connecting documents across the web
+   - embedding media
+   - orchestrating the inclusion of CSS and JS
 
-**** why
+*** why
 
-     Although it is possible to embed the styles in-line, the page
-     becomes harder to maintain. Although maintainability is an
-     important concern, there are other considerations to
-     separate responsibilities (e.g. content and presentation).
-     Users view web content in a lot of different contexts —
-     desktops, laptops, tablets, mobile phones, RSS readers, and
-     many others. Styles and design decisions that make sense in
-     one environment don't always make sense in another. So it is
-     much better to provide semantic information and let the content
-     be adapted to the context.
+    Although it is possible to embed the styles in-line, the page
+    becomes harder to maintain. Although maintainability is an
+    important concern, there are other considerations to
+    separate responsibilities (e.g. content and presentation).
+    Users view web content in a lot of different contexts —
+    desktops, laptops, tablets, mobile phones, RSS readers, and
+    many others. Styles and design decisions that make sense in
+    one environment don't always make sense in another. So it is
+    much better to provide semantic information and let the content
+    be adapted to the context.
 
-*** Security concerns
+** Security concerns
 
-    - Not validating user input
-    - Cross-site scripting (XSS)
-      - reflected
-      - persistent
-    - SQL injection
-    - Cross-site request forgery (CSRF)
-    - Clickjacking
-    - [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security][Others...]]
+   - Not validating user input
+   - Cross-site scripting (XSS)
+     - reflected
+     - persistent
+   - SQL injection
+   - Cross-site request forgery (CSRF)
+   - Clickjacking
+   - [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security][Others...]]
 
-*** best practices
+** best practices
 
-    - use semantic mark-up
+   - use semantic mark-up
 
-    - don't use [[https://html.com/deprecated/][these deprecated features]] and [[https://rules.sonarsource.com/html/tag/html5/RSPEC-1827][these]]
+   - don't use [[https://html.com/deprecated/][these deprecated features]] and [[https://rules.sonarsource.com/html/tag/html5/RSPEC-1827][these]]
 
-    - don't use inline styles
+   - don't use inline styles
 
-    - use kebob-case or snake_case for class/id names.
+   - use kebob-case or snake_case for class/id names.
 
-      - one or the other, please be consistent
+     - one or the other, please be consistent
 
-    - use lowercase kebob-case for tag names.
+   - use lowercase kebob-case for tag names.
 
-      - it helps keep things readable
+     - it helps keep things readable
 
-    - Use alt attribute with images
+   - Use alt attribute with images
 
-*** Search Engine Optimization considerations
+** Search Engine Optimization considerations
 
-    - Use a title
+   - Use a title
 
-    - Header tags help and give an implicit ranking to your page
+   - Header tags help and give an implicit ranking to your page
 
-    - Use a meta description in the head
+   - Use a meta description in the head
 
-    - [[https://support.google.com/webmasters/answer/7451184?hl=en][a place to get started]]
+   - [[https://support.google.com/webmasters/answer/7451184?hl=en][a place to get started]]
 
-** Presentation
+* Presentation
 
-   - CSS :: 'The language for describing the presentation of
-     Web pages, including colors, layout, and fonts...
-     The separation of HTML from CSS makes it easier to maintain
-     sites, share style sheets across pages, and tailor pages to
-     different environments. This is referred to as the separation
-     of structure (or: content) from presentation.' [[https://www.w3.org/standards/webdesign/htmlcss.html][W3C - HTML & CSS]]
+  - CSS :: 'The language for describing the presentation of
+    Web pages, including colors, layout, and fonts...
+    The separation of HTML from CSS makes it easier to maintain
+    sites, share style sheets across pages, and tailor pages to
+    different environments. This is referred to as the separation
+    of structure (or: content) from presentation.' [[https://www.w3.org/standards/webdesign/htmlcss.html][W3C - HTML & CSS]]
 
-*** history
+** history
 
-***** resources
-      [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
+**** resources
+     [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
 
-      [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
+     [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
 
-      [[https://www.w3.org/Style/LieBos2e/history/Overview.html][The CSS Saga]]
+     [[https://www.w3.org/Style/LieBos2e/history/Overview.html][The CSS Saga]]
 
-      [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
+     [[https://www.w3.org/People/howcome/p/cascade.html][Cascading HTML style sheets -- a proposal]]
 
-      [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
+     [[http://www.css-class.com/a-brief-history-of-css/][Writings of a Page Load Speed Geek]]
 
-      [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
+     [[https://simplecss.eu/css-history-brief-overview.html][CSS History, A Brief Overview]]
 
-      [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
+     [[http://www.technologyuk.net/computing/website-development/introduction-to-css/introduction.shtml][A Brief History of CSS]]
 
-      [[https://www.webdesignmuseum.org/][Web Design Museum]]
+     [[https://www.webdesignmuseum.org/][Web Design Museum]]
 
-      [[https://thehistoryoftheweb.com/the-rise-of-css/][The Rise of CSS]]
+     [[https://thehistoryoftheweb.com/the-rise-of-css/][The Rise of CSS]]
 
-      [[https://thehistoryoftheweb.com/look-back-history-css/][A Look Back at the History of CSS]]
+     [[https://thehistoryoftheweb.com/look-back-history-css/][A Look Back at the History of CSS]]
 
 
-**** 1990
+*** 1990
 
-       Tim Berners-Lee wrote his NeXT browser/editor in such a way
-       that he could determine the style with a simple style sheet.
-       However, he didn't publish the syntax for the style sheets,
-       considering it a matter for each browser to decide how to
-       best display pages to its users.
+      Tim Berners-Lee wrote his NeXT browser/editor in such a way
+      that he could determine the style with a simple style sheet.
+      However, he didn't publish the syntax for the style sheets,
+      considering it a matter for each browser to decide how to
+      best display pages to its users.
 
-**** 1992
+*** 1992
 
-     Pei Wei developed a browser called Viola, which had its own
-     style sheet language.
+    Pei Wei developed a browser called Viola, which had its own
+    style sheet language.
 
-**** 1993
+*** 1993
 
-     - NCSA Mosaic was released
-       - offered limited capability to change fonts and colors.
+    - NCSA Mosaic was released
+      - offered limited capability to change fonts and colors.
 
-     #+BEGIN_SRC html
-     <MULTICOL COLS="3" GUTTER="25">
-       <P><FONT SIZE="4" COLOR="RED">This would be some font broken up into columns</FONT></P>
-     </MULTICOL>
-     #+END_SRC
+    #+BEGIN_SRC html
+    <MULTICOL COLS="3" GUTTER="25">
+      <P><FONT SIZE="4" COLOR="RED">This would be some font broken up into columns</FONT></P>
+    </MULTICOL>
+    #+END_SRC
 
-**** 1994 - Håkon Wium Lie released the first draft of “Cascading HTML Style Sheets” in October at a web conference in Chicago (Developer's Day)
+*** 1994 - Håkon Wium Lie released the first draft of “Cascading HTML Style Sheets” in October at a web conference in Chicago (Developer's Day)
 
-     - The concept of a balance between author and user preferences
+    - The concept of a balance between author and user preferences
 
-     - CSS was perceived by some as being too simple and believed it
-       needed a full programming language.
+    - CSS was perceived by some as being too simple and believed it
+      needed a full programming language.
 
-     - CSS went in the exact opposite direction with a simple,
-       declarative format.
+    - CSS went in the exact opposite direction with a simple,
+      declarative format.
 
-     - Marc Andreessen announced to www-talk that the first beta
-       release of Mozilla (which later turned into Netscape
-       Navigator) was available for testing.
+    - Marc Andreessen announced to www-talk that the first beta
+      release of Mozilla (which later turned into Netscape
+      Navigator) was available for testing.
 
-       - Among the new tags the new browser supported was center
+      - Among the new tags the new browser supported was center
 
-     - Behind the scenes, Dave Raggett (the main architect of
-       HTML 3.0) had encouraged the release of the draft to go
-       out before the upcoming Mosaic and the Web conference in
-       Chicago.
+    - Behind the scenes, Dave Raggett (the main architect of
+      HTML 3.0) had encouraged the release of the draft to go
+      out before the upcoming Mosaic and the Web conference in
+      Chicago.
 
-       - Dave had realized that HTML would and should never turn
-	 into a page-description language and that a
-	 more purpose-built mechanism was needed to satisfy
-	 requirements from authors.
+      - Dave had realized that HTML would and should never turn
+	into a page-description language and that a
+	more purpose-built mechanism was needed to satisfy
+	requirements from authors.
 
-     - Tim Berners-Lee formed the World Wide Web Consortium,
-       (W3C) at the Massachusetts Institute of Technology
-       Laboratory for Computer Science.
+    - Tim Berners-Lee formed the World Wide Web Consortium,
+      (W3C) at the Massachusetts Institute of Technology
+      Laboratory for Computer Science.
 
-       - The W3C has members that are government entities,
-	 businesses, educational institutions and individuals.
+      - The W3C has members that are government entities,
+	businesses, educational institutions and individuals.
 
-       - The W3C creates recommendations that are used to keep the
-	 web experience consistent among different browsers.
+      - The W3C creates recommendations that are used to keep the
+	web experience consistent among different browsers.
 
-**** 1995 - WWW conference, CSS was again presented
+*** 1995 - WWW conference, CSS was again presented
 
-     - Bert Bos presented the support for style sheets in Argo
-     - Håkon showed a version of the Arena browser which had been modified to support CSS
-       - Arena was written by Dave Ragett as a testbed.
-     - The presentations became a political argument
-       - Author :: the author ultimately had to be in charge of deciding how documents were presented. (e.g. legal reasons)
-       - User :: Whose eyes and ears ultimately have to decode the presentation, should be given the last word when there are conflicts.
+    - Bert Bos presented the support for style sheets in Argo
+    - Håkon showed a version of the Arena browser which had been modified to support CSS
+      - Arena was written by Dave Ragett as a testbed.
+    - The presentations became a political argument
+      - Author :: the author ultimately had to be in charge of deciding how documents were presented. (e.g. legal reasons)
+      - User :: Whose eyes and ears ultimately have to decode the presentation, should be given the last word when there are conflicts.
 
-     - HTML3.2 includes the font tag
+    - HTML3.2 includes the font tag
 
-     - The W3C set up the HTML Editorial Review Board (ERB) in
-       late 1995 to make HTML specifications.
+    - The W3C set up the HTML Editorial Review Board (ERB) in
+      late 1995 to make HTML specifications.
 
-**** 1996 CSS Recommendation released
+*** 1996 CSS Recommendation released
 
-     - The release of CSS 1 supported: font properties, text
-       attributes, alignment of text, tables, images and more,
-       colors of text and backgrounds, spacing of words, letters
-       and lines, margins, borders, padding and positioning, and
-       unique identification and classification of groups of
-       attributes.
-       - the Cascading Style Sheets and Formatting Properties
-	 Working Group was formed by the W3C to focus solely on CSS.
-     - Microsoft Internet Explorer became the first browser to
-       support CSS.
-       - reliably supports most of the color, background, font and text properties, but does not implement much of the box model.
-     - Netscape followed suit in supporting CSS, but also
-       implemented an alternative JavaScript Style Sheets, which
-       were never fully completed, and are now deprecated.
-     - Sites that looked one way in IE might look completely
-       different in Netscape Navigator, and vise versa, because
-       CSS properties were executed differently.
+    - The release of CSS 1 supported: font properties, text
+      attributes, alignment of text, tables, images and more,
+      colors of text and backgrounds, spacing of words, letters
+      and lines, margins, borders, padding and positioning, and
+      unique identification and classification of groups of
+      attributes.
+      - the Cascading Style Sheets and Formatting Properties
+	Working Group was formed by the W3C to focus solely on CSS.
+    - Microsoft Internet Explorer became the first browser to
+      support CSS.
+      - reliably supports most of the color, background, font and text properties, but does not implement much of the box model.
+    - Netscape followed suit in supporting CSS, but also
+      implemented an alternative JavaScript Style Sheets, which
+      were never fully completed, and are now deprecated.
+    - Sites that looked one way in IE might look completely
+      different in Netscape Navigator, and vise versa, because
+      CSS properties were executed differently.
 
-**** 1998 CSS 2
+*** 1998 CSS 2
 
-     - new capabilities including z-index, media types,
-       bidirectional text, absolute, relative and fixed
-       positioning, and support for aural style sheets
-       - then CSS 2.1 fixing the buggy nature of its predecessor
-	 has capabilities that allows the user to design page layout.
+    - new capabilities including z-index, media types,
+      bidirectional text, absolute, relative and fixed
+      positioning, and support for aural style sheets
+      - then CSS 2.1 fixing the buggy nature of its predecessor
+	has capabilities that allows the user to design page layout.
 
-     - [[https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm][The Box Acid Test]] :: Written by Todd Fahrner tested if
-       web browsers supported the CSS language. The test itself is a
-       simple webpage with a series of arranged boxes. Browsers
-       would either render this page correctly, or fail the test.
-       In the beginning, most browsers failed.
+    - [[https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm][The Box Acid Test]] :: Written by Todd Fahrner tested if
+      web browsers supported the CSS language. The test itself is a
+      simple webpage with a series of arranged boxes. Browsers
+      would either render this page correctly, or fail the test.
+      In the beginning, most browsers failed.
 
-**** 1999 CSS 3
+*** 1999 CSS 3
 
-     - Allows The User To Create Presentations From Documents And
-       to select from a wider range of fonts including those from
-       Google and Typecast. Uniquely, CSS3 allows the user to
-       incorporate rounded borders and use multiple columns. CSS3
-       is considered to be easier to use (when compared to CSS2)
-       because it has different modules
+    - Allows The User To Create Presentations From Documents And
+      to select from a wider range of fonts including those from
+      Google and Typecast. Uniquely, CSS3 allows the user to
+      incorporate rounded borders and use multiple columns. CSS3
+      is considered to be easier to use (when compared to CSS2)
+      because it has different modules
 
-**** 2002
+*** 2002
 
-     - Wired magazine launch a brand new version of their website
-       with a standards based layout using semantic HTML and CSS.
+    - Wired magazine launch a brand new version of their website
+      with a standards based layout using semantic HTML and CSS.
 
-**** 2003
+*** 2003
 
-     - Dave Shea creates [[http://csszengarden.com/][CSS Zen Garden]]
+    - Dave Shea creates [[http://csszengarden.com/][CSS Zen Garden]]
 
-**** 2011
+*** 2011
 
-     - CSS 2.1 finally being published as an official WC3
-       recommendation
+    - CSS 2.1 finally being published as an official WC3
+      recommendation
 
-     - Between June 2011 and June 2012, the following four modules
-       were released as formal recommendations: color, selectors
-       level 3, namespaces and media queries
+    - Between June 2011 and June 2012, the following four modules
+      were released as formal recommendations: color, selectors
+      level 3, namespaces and media queries
 
-*** responsibility
+** responsibility
 
-**** why
+*** why
 
-*** best practices
+** best practices
 
-** Java-script
+* Java-script
 
-*** history
+** history
 
-*** responsibility
+** responsibility
 
-**** why
+*** why
 
-*** best practices
+** best practices
