@@ -151,6 +151,11 @@
 
       [[https://thehistoryoftheweb.com/look-back-history-css/][A Look Back at the History of CSS]]
 
+**** 1992
+
+     Pei Wei developed a browser called Viola, which had its own
+     style sheet language.
+
 **** 1993
 
      - NCSA Mosaic was released
