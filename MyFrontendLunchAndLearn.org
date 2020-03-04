@@ -217,6 +217,7 @@
        CSS properties were executed differently.
 
 **** 1998 CSS 2
+
      - new capabilities including z-index, media types,
        bidirectional text, absolute, relative and fixed
        positioning, and support for aural style sheets
