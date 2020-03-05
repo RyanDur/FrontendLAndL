@@ -322,6 +322,8 @@
 
      [[https://www.w3.org/Style/CSS/Overview.en.html][Cascading Style Sheets home page]]
 
+     [[https://www.hongkiat.com/blog/calculate-css-percentage-margins/][What You Don’t Know About Calculating Percentage Margins in CSS]]
+
 ** responsibility
 
 *** why
