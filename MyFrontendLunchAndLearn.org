@@ -268,6 +268,7 @@
       level 3, namespaces and media queries
 
 **** resources
+
      [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
 
      [[http://www.zerobugsandprogramfaster.net/essays/2.html][A tinge of guilt]]
@@ -287,6 +288,8 @@
      [[https://thehistoryoftheweb.com/the-rise-of-css/][The Rise of CSS]]
 
      [[https://thehistoryoftheweb.com/look-back-history-css/][A Look Back at the History of CSS]]
+
+     [[https://ia802907.us.archive.org/16/items/nexus-evolt_browsers/NeXT/WorldWideWeb.html][WorldWideWeb]]
 
 ** responsibility
 
