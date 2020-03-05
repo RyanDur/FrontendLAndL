@@ -177,20 +177,15 @@
       out before the upcoming Mosaic and the Web conference in
       Chicago.
 
-      - Dave had realized that HTML would and should never turn
-	into a page-description language and that a
-	more purpose-built mechanism was needed to satisfy
-	requirements from authors.
+      - Dave had realized that HTML would and should never turn into a page-description language and that a more purpose-built mechanism was needed to satisfy requirements from authors.
 
     - Tim Berners-Lee formed the World Wide Web Consortium,
       (W3C) at the Massachusetts Institute of Technology
       Laboratory for Computer Science.
 
-      - The W3C has members that are government entities,
-	businesses, educational institutions and individuals.
+      - The W3C has members that are government entities, businesses, educational institutions and individuals.
 
-      - The W3C creates recommendations that are used to keep the
-	web experience consistent among different browsers.
+      - The W3C creates recommendations that are used to keep the web experience consistent among different browsers.
 
 *** 1995 - WWW conference, CSS was again presented
 
