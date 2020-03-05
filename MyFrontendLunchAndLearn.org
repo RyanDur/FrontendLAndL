@@ -318,6 +318,8 @@
 
      [[https://www.w3.org/Style/CSS/software.en.html#w26][2001-12-19]]
 
+     [[https://blogs.adobe.com/creativecloud/the-evolution-of-css/][The Evolution of CSS]]
+
 ** responsibility
 
 *** why
