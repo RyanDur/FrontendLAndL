@@ -261,7 +261,7 @@
       is considered to be easier to use (when compared to CSS2)
       because it has different modules
 
-*** 2000
+*** 2001
 
     - Microsoft released Internet Explorer for the Mac 5.1, with bug
       fixes and improved performance. Supports full CSS1 and partial
