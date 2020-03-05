@@ -312,6 +312,8 @@
 
      [[https://ia802907.us.archive.org/16/items/nexus-evolt_browsers/NeXT/WorldWideWeb.html][WorldWideWeb]]
 
+     [[https://www.w3.org/Style/CSS/software.en.html#w26][2001-12-19]]
+
 ** responsibility
 
 *** why
