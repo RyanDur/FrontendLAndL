@@ -166,6 +166,12 @@
     - CSS went in the exact opposite direction with a simple,
       declarative format.
 
+    - Among the people who responded to the first draft of CSS was
+      Bert Bos.
+
+      - he was building Argo, a highly customizable browser with
+	style sheets
+
     - Marc Andreessen announced to www-talk that the first beta
       release of Mozilla (which later turned into Netscape
       Navigator) was available for testing.
