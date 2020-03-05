@@ -263,9 +263,10 @@
 
 *** 2000
 
-    - Internet Explorer 5.0 for the Macintosh, shipped in March 2000,
-      was the first browser to have full (better than 99 percent)
-      CSS 1 support
+    - Microsoft released Internet Explorer for the Mac 5.1, with bug
+      fixes and improved performance. Supports full CSS1 and partial
+      CSS2. (Mac IE 5 was the first browser to reach better than 99%
+      support for CSS1, in March 2000.)
 
 *** 2002
 
