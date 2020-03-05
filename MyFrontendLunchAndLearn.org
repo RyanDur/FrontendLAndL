@@ -229,9 +229,11 @@
       - reliably supports most of the color, background, font and
 	text properties, but does not implement much of the box model.
 
-    - Netscape followed suit in supporting CSS, but also
+    - Netscape 4.0 followed suit in supporting CSS, but also
       implemented an alternative JavaScript Style Sheets, which
       were never fully completed, and are now deprecated.
+      - implemented CSS internally by translating CSS rules into
+	snippets of JavaScript, which were then run along with other scripts.
 
     - Sites that looked one way in IE might look completely
       different in Netscape Navigator, and vise versa, because
