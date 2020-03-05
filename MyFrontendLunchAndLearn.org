@@ -195,9 +195,13 @@
 
 *** 1995 - WWW conference, CSS was again presented
 
+    - The www-style mailing list was created
+
     - Bert Bos presented the support for style sheets in Argo
+
     - Håkon showed a version of the Arena browser which had been modified to support CSS
       - Arena was written by Dave Ragett as a testbed.
+
     - The presentations became a political argument
       - Author :: the author ultimately had to be in charge of deciding how documents were presented. (e.g. legal reasons)
       - User :: Whose eyes and ears ultimately have to decode the presentation, should be given the last word when there are conflicts.
