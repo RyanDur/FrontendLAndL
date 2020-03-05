@@ -211,6 +211,8 @@
     - The W3C set up the HTML Editorial Review Board (ERB) in
       late 1995 to make HTML specifications.
 
+      - CSS specification was taken up as a work item with the goal of making it into a W3C Recommendation.
+
 *** 1996 CSS Recommendation released
 
     - The release of CSS 1 supported: font properties, text
