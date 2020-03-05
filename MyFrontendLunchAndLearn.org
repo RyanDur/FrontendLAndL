@@ -183,9 +183,9 @@
       (W3C) at the Massachusetts Institute of Technology
       Laboratory for Computer Science.
 
-      - The W3C has members that are government entities, businesses, educational institutions and individuals.
+      - Has members that are government entities, businesses, educational institutions and individuals.
 
-      - The W3C creates recommendations that are used to keep the web experience consistent among different browsers.
+      - Creates recommendations that are used to keep the web experience consistent among different browsers.
 
 *** 1995 - WWW conference, CSS was again presented
 
