@@ -288,10 +288,6 @@
       were released as formal recommendations: color, selectors
       level 3, namespaces and media queries
 
-*** 2017
-
-    - CSS3 begins to be be implemented in browsers
-
 **** resources
 
      [[http://1997.webhistory.org/www.lists/www-talk.1994q1/0648.html][A cry for help]]
