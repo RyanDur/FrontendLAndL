@@ -226,8 +226,7 @@
     - new capabilities including z-index, media types,
       bidirectional text, absolute, relative and fixed
       positioning, and support for aural style sheets
-      - then CSS 2.1 fixing the buggy nature of its predecessor
-	has capabilities that allows the user to design page layout.
+      - then CSS 2.1 fixing the buggy nature of its predecessor has capabilities that allows the user to design page layout.
 
     - [[https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm][The Box Acid Test]] :: Written by Todd Fahrner tested if
       web browsers supported the CSS language. The test itself is a
