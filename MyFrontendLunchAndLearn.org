@@ -213,7 +213,7 @@
 
       - CSS specification was taken up as a work item with the goal of making it into a W3C Recommendation.
 
-*** 1996 CSS Recommendation released
+*** 1996 CSS 1 Recommendation released
 
     - The release of CSS 1 supported: font properties, text
       attributes, alignment of text, tables, images and more,
