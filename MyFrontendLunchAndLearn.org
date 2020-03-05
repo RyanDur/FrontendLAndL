@@ -320,6 +320,8 @@
 
      [[https://blogs.adobe.com/creativecloud/the-evolution-of-css/][The Evolution of CSS]]
 
+     [[https://www.w3.org/Style/CSS/Overview.en.html][Cascading Style Sheets home page]]
+
 ** responsibility
 
 *** why
