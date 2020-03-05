@@ -263,6 +263,8 @@
 
 *** 2002
 
+    - first browser implement the full CSS specification: IE
+
     - Wired magazine launch a brand new version of their website
       with a standards based layout using semantic HTML and CSS.
 
