@@ -331,6 +331,7 @@
 * Interaction
 
   The goal of JS was to create a more dynamic web with interactions.
+  JavaScript was born to be a small client side scripting language.
 
 ** history
 
