@@ -342,6 +342,10 @@
       - during his time at Netscape Communications.
       - Inspired by Java, Scheme and Self.
       - Created in 10 days
+      - known internally as Mocha
+      - renamed LiveScript
+      - finally—though it bears little resemblance to Java—called
+	JavaScript.
 
 **** resources
 
