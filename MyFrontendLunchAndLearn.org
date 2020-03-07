@@ -328,7 +328,7 @@
 
 ** best practices
 
-* JavaScript
+* Interaction
 
   The goal of JS was to create a more dynamic web with interactions.
 
