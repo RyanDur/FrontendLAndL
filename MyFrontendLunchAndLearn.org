@@ -389,6 +389,8 @@
 
      [[https://www.coursereport.com/blog/history-of-javascript][JavaScript: A History for Beginners]]
 
+     [[https://immagic.com/eLibrary/ARCHIVES/GENERAL/ADTVPATH/A050218G.pdf][Ajax: A New Approach to Web Applications]]
+
 ** responsibility
 
 *** why
