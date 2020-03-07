@@ -380,6 +380,11 @@
       - jQuery and MooTools which abstracted away browser
 	inconsistencies and made it easier to apply design patterns.
 
+*** 2006
+
+    - John Resig introduced jQuery to strip common and repetitive
+      tasks out.
+
 *** 2009
 
     - ES5
