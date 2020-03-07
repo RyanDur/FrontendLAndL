@@ -356,6 +356,12 @@
       into Internet Explorer as "JScript"
       - the attempt was imperfect, yielding various incompatibilities
 
+*** 1997
+
+    - Ecma International standards organization laid out the
+      platform-agnostic specifications for "ECMAScript" (ES), the
+      language commonly known as JavaScript.
+
 **** resources
 
      [[https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17#:~:text=][A brief history of JavaScript]]
