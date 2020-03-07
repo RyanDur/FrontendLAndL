@@ -337,10 +337,13 @@
     - Created by Brendan Eich
       - during his time at Netscape Communications.
       - Inspired by Java, Scheme and Self.
+      - Created in 10 days
 
 **** resources
 
      [[https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17#:~:text=][A brief history of JavaScript]]
+
+     [[https://www.coursereport.com/blog/history-of-javascript][JavaScript: A History for Beginners]]
 
 ** responsibility
 
