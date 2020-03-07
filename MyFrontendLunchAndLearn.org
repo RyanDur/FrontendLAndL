@@ -357,7 +357,8 @@
 
 *** 1997
 
-    - Ecma International standards organization laid out the
+    - Ecma (the European Computer Manufacturers Association)
+      International standards organization laid out the
       platform-agnostic specifications for "ECMAScript" (ES), the
       language commonly known as JavaScript.
 
