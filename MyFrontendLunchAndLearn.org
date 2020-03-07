@@ -347,6 +347,11 @@
       - finally (though it bears little resemblance to Java)
 	called JavaScript.
 
+*** 1996
+
+    Microsoft was compelled to reverse-engineer JavaScript support
+    into Internet Explorer as "JScript"
+
 **** resources
 
      [[https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17#:~:text=][A brief history of JavaScript]]
