@@ -371,7 +371,8 @@
 
 *** 2005
 
-    - AJAX
+    - AJAX a set of techniques that enable JavaScript-powered
+      websites to feel more like fast native apps.
       - jQuery and MooTools which abstracted away browser
 	inconsistencies and made it easier to apply design patterns.
 
