@@ -330,6 +330,8 @@
 
 * JavaScript
 
+  The goal of JS was to create a more dynamic web with interactions.
+
 ** history
 
 *** 1995
