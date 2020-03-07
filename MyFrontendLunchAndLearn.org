@@ -349,6 +349,8 @@
 
 *** 1996
 
+    JavaScript took off quickly, and development of new tools and
+    web page features outpaced the delivery of actual Java applets.
     Microsoft was compelled to reverse-engineer JavaScript support
     into Internet Explorer as "JScript"
 
