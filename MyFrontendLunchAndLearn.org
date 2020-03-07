@@ -336,7 +336,7 @@
 
     - Created by Brendan Eich
       - during his time at Netscape Communications.
-      -  inspired by Java, Scheme and Self.
+      - Inspired by Java, Scheme and Self.
 
 **** resources
 
