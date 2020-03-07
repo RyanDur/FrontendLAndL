@@ -384,6 +384,9 @@
 
     - John Resig introduced jQuery to strip common and repetitive
       tasks out.
+      - simplifies CSS animation
+      - event handling
+      - AJAX
 
 *** 2009
 
