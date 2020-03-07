@@ -328,7 +328,7 @@
 
 ** best practices
 
-* Java-script
+* JavaScript
 
 ** history
 
