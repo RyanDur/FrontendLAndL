@@ -344,8 +344,8 @@
       - Created in 10 days
       - known internally as Mocha
       - renamed LiveScript
-      - finally—though it bears little resemblance to Java—called
-	JavaScript.
+      - finally (though it bears little resemblance to Java)
+	called JavaScript.
 
 **** resources
 
