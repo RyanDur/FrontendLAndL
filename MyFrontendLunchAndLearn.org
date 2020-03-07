@@ -369,6 +369,12 @@
 
     - ES3
 
+*** 2005
+
+    - AJAX
+      - jQuery and MooTools which abstracted away browser
+	inconsistencies and made it easier to apply design patterns.
+
 **** resources
 
      [[https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17#:~:text=][A brief history of JavaScript]]
