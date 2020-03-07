@@ -379,6 +379,8 @@
 *** 2009
 
     - ES5
+      - a more modest update than the ill-fated ES4, and originally
+	named ES3.1
 
 **** resources
 
