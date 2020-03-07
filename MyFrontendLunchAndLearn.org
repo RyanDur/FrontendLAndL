@@ -338,8 +338,8 @@
       - contradictory stipulation: whatever he came up with had to
 	"look like Java."
 
-    - Created by Brendan Eich
-      - during his time at Netscape Communications.
+    - Created by Brendan Eich during his time at Netscape
+      Communications.
       - Inspired by Java, Scheme and Self.
       - Created in 10 days
       - known internally as Mocha
