@@ -332,6 +332,16 @@
 
 ** history
 
+*** 1995
+
+    - Created by Brendan Eich
+      - during his time at Netscape Communications.
+      -  inspired by Java, Scheme and Self.
+
+**** resources
+
+     [[https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17#:~:text=][A brief history of JavaScript]]
+
 ** responsibility
 
 *** why
