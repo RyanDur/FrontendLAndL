@@ -395,6 +395,14 @@
       - a more modest update than the ill-fated ES4, and originally
 	named ES3.1
 
+*** 2010
+
+    - AngularJS
+
+*** 2016
+
+    - Angular
+
 **** resources
 
      [[https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17#:~:text=][A brief history of JavaScript]]
