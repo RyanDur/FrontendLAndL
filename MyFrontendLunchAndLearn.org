@@ -334,6 +334,10 @@
 
 *** 1995
 
+    - Netscape recruited Eich to implement "Scheme for the browser,"
+      - contradictory stipulation: whatever he came up with had to
+	"look like Java."
+
     - Created by Brendan Eich
       - during his time at Netscape Communications.
       - Inspired by Java, Scheme and Self.
