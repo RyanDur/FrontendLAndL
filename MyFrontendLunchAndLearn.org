@@ -362,6 +362,14 @@
       platform-agnostic specifications for "ECMAScript" (ES), the
       language commonly known as JavaScript.
 
+*** 1998
+
+    - ES2
+
+*** 1993
+
+    - ES3
+
 **** resources
 
      [[https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17#:~:text=][A brief history of JavaScript]]
