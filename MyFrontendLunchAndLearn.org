@@ -399,6 +399,14 @@
 
     - AngularJS
 
+*** 2011
+
+    - React
+
+*** 2014
+
+    - Vue.js
+
 *** 2016
 
     - Angular
