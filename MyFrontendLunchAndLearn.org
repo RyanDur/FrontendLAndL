@@ -387,6 +387,7 @@
       - simplifies CSS animation
       - event handling
       - AJAX
+      - DOM crawling
 
 *** 2009
 
