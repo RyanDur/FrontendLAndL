@@ -1,3 +1,10 @@
+The Browser
+
+[[https://www.w3.org/History/1989/proposal.html][The first Proposal]]
+
+[[https://www.w3.org/History/19921103-hypertext/hypertext/WWW/Proposal.html][The next Proposal]]
+
+
 * Structure
 
   - HTML :: 'It is not a programming language, but rather a
