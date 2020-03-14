@@ -65,6 +65,8 @@
 
      [[ https://html.com/html5/#ixzz6GgbGWd00][HTML5 Basics For Everyone Tired Of Reading About Deprecated Code]]
 
+     [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][The original 18 HTML tags]]
+
 ** responsibility
 
    - content
