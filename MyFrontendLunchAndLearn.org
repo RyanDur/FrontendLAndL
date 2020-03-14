@@ -83,6 +83,8 @@ The Browser
 
      [[https://www.infoq.com/news/2011/05/html5-design/][Jeremy Keith on the Design Principles of HTML5]]
 
+     [[https://www.smashingmagazine.com/2020/01/html5-article-section/][Why You Should Choose HTML5 <article> Over <section>]]
+
 ** responsibility
 
    - content
