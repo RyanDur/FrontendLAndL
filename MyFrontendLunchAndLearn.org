@@ -4,6 +4,7 @@ The Browser
 
 [[https://www.w3.org/History/19921103-hypertext/hypertext/WWW/Proposal.html][The next Proposal]]
 
+[[https://worldwideweb.cern.ch/browser/#https://worldwideweb.cern.ch/browser/default.html][The first browser]]
 
 * Structure
 
@@ -68,7 +69,7 @@ The Browser
 
 **** resources
 
-     [[https://worldwideweb.cern.ch/browser/#https://worldwideweb.cern.ch/browser/default.html][The first browser]]
+
 
      [[ https://html.com/html5/#ixzz6GgbGWd00][HTML5 Basics For Everyone Tired Of Reading About Deprecated Code]]
 
