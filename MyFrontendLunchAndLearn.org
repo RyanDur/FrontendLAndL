@@ -67,6 +67,14 @@
 
      [[http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html][The original 18 HTML tags]]
 
+     [[https://www.w3.org/standards/webdesign/htmlcss.html][HTML & CSS]]
+
+     [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security][Website security]]
+
+     [[https://html.com/deprecated/][Deprecated in html5]]
+
+     [[https://rules.sonarsource.com/html/tag/html5/RSPEC-1083][A complete list of deprecated html]]
+
 ** responsibility
 
    - content
