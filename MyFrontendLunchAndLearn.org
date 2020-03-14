@@ -361,6 +361,8 @@ The Browser
 
 ** history
 
+   "Java is to JavaScript as ham is to hamster." --Jeremy Keith, 2009
+
 *** 1995
 
     - Netscape recruited Eich to implement "Scheme for the browser,"
