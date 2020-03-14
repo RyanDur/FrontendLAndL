@@ -59,6 +59,12 @@
     - Supporting rich media experiences while eliminating the need
       for plugins such as Flash or Java
 
+**** resources
+
+     [[https://worldwideweb.cern.ch/browser/#https://worldwideweb.cern.ch/browser/default.html][The first browser]]
+
+     [[ https://html.com/html5/#ixzz6GgbGWd00][HTML5 Basics For Everyone Tired Of Reading About Deprecated Code]]
+
 ** responsibility
 
    - content
