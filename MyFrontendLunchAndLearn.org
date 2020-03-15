@@ -447,6 +447,8 @@ The Browser
 
      [[https://immagic.com/eLibrary/ARCHIVES/GENERAL/ADTVPATH/A050218G.pdf][Ajax: A New Approach to Web Applications]]
 
+     [[https://en.wikipedia.org/wiki/Brendan_Eich][Brendan Eich]]
+
 ** responsibility
 
 *** why
