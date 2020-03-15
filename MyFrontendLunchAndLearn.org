@@ -383,11 +383,13 @@ The Browser
    everybody to agree to a donation of the trademark, so they ended
    up inventing ECMAScript, which sounds a little like a skin
    disease. Nobody really wants it.
-
    The idea was to make something that Web designers, people who may
    or may not have much programming training, could use to add a
    little bit of animation or a little bit of smarts to their Web
-   forms and their Web pages.
+   forms and their Web pages.... The idea was to make something that
+   Web designers, people who may or may not have much programming
+   training, could use to add a little bit of animation or a little
+   bit of smarts to their Web forms and their Web pages.
 
 *** 1995
 
