@@ -458,7 +458,7 @@ The Browser
 
      [[https://en.wikipedia.org/wiki/Prototype-based_programming][Prototype-based programming]]
 
-     [[https://auth0.com/blog/a-brief-history-of-javascript/][Auth0: A Brief History of JavaScript]]
+     [[https://auth0.com/blog/a-brief-history-of-javascript/][Auth0:P A Brief History of JavaScript]]
 
 ** responsibility
 
