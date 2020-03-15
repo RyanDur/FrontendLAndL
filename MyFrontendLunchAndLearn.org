@@ -494,6 +494,8 @@ The Browser
 
      [[https://www.infoworld.com/article/2653798/javascript-creator-ponders-past--future.html][JavaScript creator ponders past, future]]
 
+     [[https://www.computerworld.com/article/3458282/the-a-z-of-programming-languages-javascript.html][The A-Z of Programming Languages: JavaScript]]
+
 ** responsibility
 
 *** why
