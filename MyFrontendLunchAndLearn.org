@@ -372,7 +372,8 @@ The Browser
 
    JavaScript started out as Mocha, then became LiveScript and then
    became JavaScript when Netscape and Sun got together.
-
+   the idea was to make it a complementary scripting language to go
+   with Java
 *** 1995
 
     - Netscape recruited Eich to implement "Scheme for the browser,"
