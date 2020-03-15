@@ -370,6 +370,8 @@ The Browser
    The diktat from upper engineering management was that the
    language must “look like Java”.
 
+   JavaScript started out as Mocha, then became LiveScript and then
+   became JavaScript when Netscape and Sun got together.
 
 *** 1995
 
