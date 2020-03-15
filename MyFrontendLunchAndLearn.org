@@ -449,6 +449,8 @@ The Browser
 
      [[https://en.wikipedia.org/wiki/Brendan_Eich][Brendan Eich]]
 
+     [[https://en.wikibooks.org/wiki/JavaScript/History_of_JavaScript][JavaScript/History of JavaScript]]
+
 ** responsibility
 
 *** why
