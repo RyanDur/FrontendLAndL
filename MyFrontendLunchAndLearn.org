@@ -381,8 +381,8 @@ The Browser
    implementation JScript. So ECMA wanted to call it something and
    they couldn’t get anybody to donate or they couldn’t get
    everybody to agree to a donation of the trademark, so they ended
-   up inventing ECMAScript, which sounds a little like a skin disease.
-   Nobody really wants it.
+   up inventing ECMAScript, which sounds a little like a skin
+   disease. Nobody really wants it.
 
 *** 1995
 
