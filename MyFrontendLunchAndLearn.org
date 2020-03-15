@@ -367,6 +367,9 @@ The Browser
    developers and people with experience in the software engineering
    side of things.
 
+   The diktat from upper engineering management was that the
+   language must “look like Java”.
+
 
 *** 1995
 
@@ -459,6 +462,8 @@ The Browser
      [[https://en.wikipedia.org/wiki/Prototype-based_programming][Prototype-based programming]]
 
      [[https://auth0.com/blog/a-brief-history-of-javascript/][Auth0:P A Brief History of JavaScript]]
+
+     [[https://brendaneich.com/2008/04/popularity/][APRIL 3, 2008 BY BRENDAN EICH: Popularity]]
 
 ** responsibility
 
