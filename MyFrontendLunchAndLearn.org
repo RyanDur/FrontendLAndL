@@ -467,6 +467,8 @@ The Browser
 
      [[https://brendaneich.com/2008/04/popularity/][APRIL 3, 2008 BY BRENDAN EICH: Popularity]]
 
+     [[https://www.infoworld.com/article/2653798/javascript-creator-ponders-past--future.html][JavaScript creator ponders past, future]]
+
 ** responsibility
 
 *** why
