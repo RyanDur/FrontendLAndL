@@ -397,6 +397,11 @@ The Browser
    elements of the page, change their properties, and respond to
    events, we envisioned a much livelier Web consisting of pages
    that acted more like applications.
+   The impetus was the belief on the part of at least Marc
+   Andreessen and myself, along with Bill Joy of Sun, that HTML
+   needed a "scripting language", a programming language that was
+   easy to use by amateurs and novices, where the code could be
+   written directly in source form as part of the Web page markup.
 
 *** 1995
 
