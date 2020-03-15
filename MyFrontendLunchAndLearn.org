@@ -374,6 +374,7 @@ The Browser
    became JavaScript when Netscape and Sun got together.
    the idea was to make it a complementary scripting language to go
    with Java
+
 *** 1995
 
     - Netscape recruited Eich to implement "Scheme for the browser,"
