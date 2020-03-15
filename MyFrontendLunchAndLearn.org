@@ -391,6 +391,13 @@ The Browser
    training, could use to add a little bit of animation or a little
    bit of smarts to their Web forms and their Web pages.
 
+   The lack of programmability of Web pages made them static,
+   text-heavy, with at best images in tables or floating on the
+   right or left. With a scripting language like JS that could touch
+   elements of the page, change their properties, and respond to
+   events, we envisioned a much livelier Web consisting of pages
+   that acted more like applications.
+
 *** 1995
 
     - Netscape recruited Eich to implement "Scheme for the browser,"
